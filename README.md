@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://github.com/embeddedcons/embeddedcons/blob/main/giphy.gif" />
+</h1>
 
-<!--
-**embeddedcons/embeddedcons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+  <img src="https://github.com/embeddedcons/embeddedcons/blob/main/name.svg" />
+</h2>
 
-Here are some ideas to get you started:
+I'm Fatma, 23 years old Electrical and Electronic 
+Engineer Student. 
+<:Science and Technology Enthusiast:>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- 👨‍💻 C, Python
+- 💽 STM32 Microcontroller, Arduino
+-  ✔ Altium Designer
+- 👁️ Basic Networking, Cyber Security
+- ⚙️ Linux
+
+
+## Contact
+- [@fatmkzlkaya](https://www.linkedin.com/in/fatma-kizilkaya/) on LinkedIn
+- [@fatmkzlkaya](https://twitter.com/fatmkzlkaya) on Twitter
+- fatm.kizilkaya@outlook.com
